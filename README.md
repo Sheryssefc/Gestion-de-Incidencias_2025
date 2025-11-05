@@ -95,3 +95,6 @@ The dashboard allows:
 4. **Filter by incident type** for specific diagnosis
 5. **Analyze by request type** for resource optimization
 
+---
+
+*Note: The data used is fictional and created for professional demonstration, based on real experience in incident management with SLA focus. The dashboard logo, while simple, was personally created for this project.*
